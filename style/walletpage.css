@@ -145,6 +145,7 @@
     font-size: .8rem;
     border-radius: 7px;
     padding: .5rem .8rem .5rem .8rem;
+    visibility: hidden;
 }
 #top-box-btn {
     visibility: hidden;
@@ -269,8 +270,9 @@ small {
     .divexample {
 
     }
-    #examplediv {
-        margin-left: -7.18rem;
-        width: 14rem !important;
+    .examplediv {
+        margin-left: -11rem;
+        width: 100rem !important;
+        font-size: .7rem !important;
     }
 }
